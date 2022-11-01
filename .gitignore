@@ -1,0 +1,58 @@
+.idea
+.target
+/target/
+DockerFile
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+
+### Others ###
+target
+logs
+*.out
+/bin/
+/DockerFile
+es-data
+kafka-data
+.m2
+.DS_Store
+
+### Custom Folders ###
+Challenges/TutorialEdge/Challenge\ 22
+
+### Random Folders ###
+Random/ToDo
+
+### Data Structure ###
+Data Structure/
+
+Challenges/CodeSignal/Arcade/Intro/README.md
+
+### Challenges/CodeSignal ###
+Challenges/CodeSignal/Arcade/Intro/Land of Logic
+
+
+
+
