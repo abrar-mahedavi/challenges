@@ -5,19 +5,16 @@ class Solution {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
         Solution solution = new Solution();
-        int output = solution.singleNumber(new int[] { 1, 2, 1, 2, 3 });
-        System.out.println(output);
+        solution.reverseString(new char[] { '1', '2', '1', '2', '3' });
     }
 
-    public int singleNumber(int[] nums) {
-        if (nums.length == 1) {
-            return nums[0];
-        } else {
-            int sum = 0;
-            for (int i = 0; i < nums.length; i++) {
-                sum ^= nums[i];
-            }
-            return sum;
+    public void reverseString(char[] s) {
+        for (int i = 0; i < s.length / 2; i++) {
+            char temp = s[i];
+            s[i] = s[s.length - i - 1];
+            s[s.length - i - 1] = temp;
         }
+
     }
+
 }
