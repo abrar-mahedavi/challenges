@@ -3,10 +3,11 @@
 ## Easy
 
 
-- 136 Single Number
-- 344 Reverse String
-- 20  Valid Parentheses
-- 118 Pascal's Triangle
+- 136    Single Number
+- 344    Reverse String
+- 20     Valid Parentheses
+- 118    Pascal's Triangle
+- 217    Contains Duplicate
 
 ## Medium
-- 73 Set Matrix Zero
+- 73     Set Matrix Zero
