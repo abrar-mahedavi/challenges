@@ -8,6 +8,7 @@
 - 20     Valid Parentheses
 - 118    Pascal's Triangle
 - 217    Contains Duplicate
+-        divide Array   
 
 ## Medium
 - 73     Set Matrix Zero
