@@ -8,7 +8,8 @@
 - 20     Valid Parentheses
 - 118    Pascal's Triangle
 - 217    Contains Duplicate
--        divide Array   
+- 2206   Divide Array Into Equal Pairs   
+- 977    Squares of a Sorted Array
 
 ## Medium
 - 73     Set Matrix Zero
