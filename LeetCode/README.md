@@ -10,6 +10,7 @@
 - 217    Contains Duplicate
 - 2206   Divide Array Into Equal Pairs   
 - 977    Squares of a Sorted Array
+- 905    Sort Array By Parity
 
 ## Medium
 - 73     Set Matrix Zero
