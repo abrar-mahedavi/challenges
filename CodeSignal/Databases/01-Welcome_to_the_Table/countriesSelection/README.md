@@ -14,20 +14,20 @@ Your task is to return a new table that has the same columns, but that only cont
 
 - For the following table countries
 
-| name      | 	continent     | 	population |
-|-----------|----------------|-------------|
-| Austria	  | Europe	        | 8767919     |
-| Belize	   | North America	 | 375909      |
-| Botswana	 | Africa	        | 2230905     |
-| Cambodia	 | Asia	          | 15626444    |
-| Cameroon	 | Africa	        | 22709892    |
+| name      | 	continent     | 	population  |
+|-----------|----------------|--------------|
+| Austria   | Europe	        | 8767919      |
+| Belize	   | North America  | 375909       |
+| Botswana	 | Africa	        | 2230905      |
+| Cambodia	 | Asia	          | 15626444     |
+| Cameroon	 | Africa	        | 22709892     |
 
 - the output should be
 
-| name	     | continent	 | population |
-|-----------|------------|------------|
-| Botswana	 | Africa	    | 2230905    |
-| Cameroon	 | Africa	    | 22709892   |
+| name	     | continent  | population  |
+|-----------|------------|-------------|
+| Botswana	 | Africa	    | 2230905     |
+| Cameroon	 | Africa	    | 22709892    |
 
 # Output
 - [execution time limit] 10 seconds (mysql)
