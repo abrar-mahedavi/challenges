@@ -1,4 +1,4 @@
-![dsa](01-Welcome_to_the_Table.png)
+![dsa](02-%20Always%20Leave%20Table%20in%20ORDER.png)
 - 
 - [x] [Challenge 01 - Always Leave Table in ORDER]()
 
