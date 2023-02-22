@@ -22,7 +22,7 @@ Given the departments table, compose the resulting table with the single column 
 - For the following table departments
 
 | id  | name       | description  |
-|-----|------------|--------------| 
+|-----|------------|--------------|
 | 1   | finance    | NULL         |
 | 2   | marketing  | '   NULL'    |
 | 3   | IT         | 'not nil'    |

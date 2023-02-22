@@ -16,7 +16,7 @@ You want to calculate the total number of legs in the meadow. Given the table cr
 - For the following table creatures 
 
 | id  | name  | type  |
-|-----|-------|-------| 
+|-----|-------|-------|
 | 1   | Mike  | human |
 | 2   | Misty | cat   |
 | 3   | Max   | dog   |

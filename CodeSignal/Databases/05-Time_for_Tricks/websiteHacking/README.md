@@ -19,7 +19,7 @@ Your task is to update the existing query. Note: You should add something to the
 - For the given table users
 
 | id   | login    | name  | type  |
-|------|----------|-------|-------| 
+|------|----------|-------|-------|
 | 1    | Ann92    | Ann   | user  |
 | 2    | Bob88    | Bob   | user  |
 | 3    | Carol412 | Carol | admin |
@@ -29,7 +29,7 @@ Your task is to update the existing query. Note: You should add something to the
 - the existing query returns the following table:
 
 | id  | login   | name |
-|-----|---------|------| 
+|-----|---------|------|
 | 1   | Ann92   | Ann  |
 | 2   | Bob88   | Bob  |
 | 5   | EvaGrin | Eva  |
@@ -37,7 +37,7 @@ Your task is to update the existing query. Note: You should add something to the
 but the updated query should return the following one:
 
 | id  | login    | name  |
-|-----|----------|-------| 
+|-----|----------|-------|
 | 1   | Ann92    | Ann   |
 | 2   | Bob88    | Bob   |
 | 3   | Carol412 | Carol |
