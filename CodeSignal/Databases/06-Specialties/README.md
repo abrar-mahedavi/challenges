@@ -1,6 +1,6 @@
 ![dsa](06%20-%20Specialties.png)
 - 
-- [x] [Challenge 05-Time_for_Tricks]()
+- [x] [Challenge 06-Specialties]()
 
   - There are 4 challenges
   - [x] [interestClub]() 
