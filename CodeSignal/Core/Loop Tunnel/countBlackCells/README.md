@@ -18,14 +18,14 @@ Count the number of cells painted black.
 
   There are <code>6</code> cells that have at least one common point with the diagonal and therefore are painted black.
 
-  ![](./images/example1.jpg)
+  ![](./img.png)
 
 - For <code>n = 3</code> and <code>m = 3</code>, the output should be
   <code>countBlackCells(n, m) = 7</code>.
 
   <code>7</code> cells have at least one common point with the diagonal and are painted black.
 
-  ![](./images/example2.jpg)
+  ![](./img_1.png)
 
 **Input/Output**
 
